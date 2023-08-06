@@ -1,2 +1,2 @@
-# youtube_diction-for-korean
+# youtube_dictation-for-korean
 with google colab(whisper,googletrans,YoutubeDL), tool for dictate of youtube channel.
